@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- #region Sabio Code - You can Fold this region to remove it from sight -->
+    <meta charset="utf-8" />
+    <meta name="referrer" content="unsafe-url" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="Sabio Coding Bootcamp" />
+    <meta itemprop="image" content="https://sabio.la/Sabio.png" />
+    <link rel="shortcut icon" href="https://sabio.la/Sabio.png" />
+    <link rel="icon" type="image/png" href="https://sabio.la/Sabio.png" />
+    <!-- Do Not Change the HTML title or anything between this line and the line with the 💘's -->
+    <title>Comparison Operators - Foundations</title>
+    <link href="https://pw.sabio.la/dist/all-site.css" rel="stylesheet" />
+
+    <script src="https://pw.sabio.la/api/js/site"></script>
+    <!-- #endregion -->
+    <!-- I 💘 Code, You 💘 Code, We all 💘 Code -->
+  </head>
+
+  <body class="sabio is-foundation" data-ins="" data-ui="full-height">
+    <!--👇🏻 All your JavaScript code goes below here inside this script tag 👇🏻 -->
+    <script id="candidateCode">
+      var hungerLevel = 9;
+      if (hungerLevel >= 7) {
+        console.log("Time to eat!");
+      } else {
+        console.log("We can eat later!");
+      }
+
+      var today = "Thursday";
+      if (today === "Saturday" || today === "Sunday") {
+        console.log("Enjoy the weekend!");
+      } else {
+        console.log("Do some work.");
+      }
+      // and statements
+      var mood = "sleepy";
+      var tirednessLevel = 6;
+      if (mood === "sleepy" && tirednessLevel > 8) {
+        console.log("time to sleep");
+      } else {
+        console.log("not bedtime yet.");
+      }
+      // comparisons truthy and falsy
+      var wordCount = 1000;
+
+      if (wordCount) {
+        console.log("Great! You started your work.");
+      } else {
+        console.log("Better get to work!");
+      }
+
+      var favoritePhrase = "Gotta Catch Them All!";
+
+      if (favoritePhrase) {
+        console.log("This string doesn't seem to be empty.");
+      } else {
+        console.log("This string is definitely empty.");
+        // AND OR
+        var username = "";
+        var defaultName;
+
+        if (username) {
+          defaultName = username;
+        } else {
+          defaultName = "Stranger";
+        }
+
+        console.log(defaultName);
+      }
+
+      //is the same as
+
+      var username = "";
+      var defaultName = username || "Guest";
+
+      console.log(defaultName);
+      // Else If statements
+      var season = "summer";
+
+      if (season === "spring") {
+        console.log("It's spring! The trees are budding!");
+      } else if (season === "winter") {
+        console.log("It's winter! Everything is covered in snow.");
+      } else if (season === "fall") {
+        console.log("It's fall! Leaves are falling!");
+      } else if (season === "summer") {
+        console.log("It's sunny and warm because it's summer!");
+      }
+      /// has to end with else
+      else {
+        console.log("Invalid season.");
+      }
+    </script>
+    <!-- 🛑 Do Not Write Any Code Below here -->
+  </body>
+</html>

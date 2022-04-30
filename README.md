@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lovelyAphorist
-- 👀 I’m interested in learning Web Development
-- 🌱 I’m currently learning HTML/CSS and JavaScript
+- 👀 I’m interested in a Sofware Engineering Job
+- 🌱 I’m currently Angular
 - 💞️ I’m looking to collaborate on learning more.
-- 📫 How to reach me Insta @ LovelyAphorist Twitter: @MeganAnnBB19 Email @meganshatemail@gmail.com
+- 📫 How to reach me Twitter: @MeganAnnBB19 Email @megan.a.lowder@gmail.com LinkedIn: https://www.linkedin.com/in/megan-lowder/
 
 <!---
 lovelyAphorist/lovelyAphorist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lovelyAphorist
 - 👀 I’m interested in a Sofware Engineering Job
-- 🌱 I’m currently Angular
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on learning more.
 - 📫 How to reach me Twitter: @MeganAnnBB19 Email @megan.a.lowder@gmail.com LinkedIn: https://www.linkedin.com/in/megan-lowder/
 

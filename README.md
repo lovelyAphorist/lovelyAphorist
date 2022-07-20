@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lovelyAphorist
+- 👋 Hi, I’m Megan Lowder
 - 👀 I’m interested in a Sofware Engineering Job
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on learning more.
